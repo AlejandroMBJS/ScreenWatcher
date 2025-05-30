@@ -1,4 +1,3 @@
----
 # ScreenWatcher
 
 **Autor:** [AlejandroMBJS](https://github.com/AlejandroMBJS)  
